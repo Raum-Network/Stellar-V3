@@ -1,4 +1,4 @@
-# Uni-v3-stellar
+# raum-raumfi-v3
 
 Concentrated-liquidity exchange stack for Stellar Soroban. This repository contains the smart-contract workspace, a Next.js frontend, deployment utilities, and architecture documentation for a Uniswap V3-style CLMM implementation.
 
